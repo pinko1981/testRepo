@@ -1,4 +1,4 @@
-pierwsza linia pliku
+Myœlê ¿e to nie dzia³a
 druga linia pliku
 trzecia linijka pliku
 czwarta linijka
