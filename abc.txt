@@ -1,3 +1,4 @@
 pierwsza linia pliku
 druga linia pliku
 trzecia linijka pliku
+czwarta linijka
